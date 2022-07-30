@@ -1,2 +1,2 @@
-# money-clicker
-I think guys
+# Money Clicker
+### What of this?
